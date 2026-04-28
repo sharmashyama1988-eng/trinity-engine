@@ -1,10 +1,10 @@
-# 🔱 Trinity Engine v2.0
+# 🔱 Trinity Engine v3.1
 ### *The Ultimate Windows Hardening & Optimization Platform*
 
 [![GitHub Stars](https://img.shields.io/github/stars/sharmashyama1988-eng/trinity-engine?style=for-the-badge)](https://github.com/sharmashyama1988-eng/trinity-engine)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-**Trinity Engine** is a high-performance system utility designed to transform Windows into a peak-efficiency environment. By decoupling standard bloatware, optimizing kernel-level process scheduling, and providing an adaptive hardware bridge, Trinity ensures zero-lag interaction for both power users and gamers.
+**Trinity Engine v3.1** (Neural Evolution) is a high-performance system utility designed to transform Windows into a peak-efficiency environment. By decoupling standard bloatware, optimizing kernel-level process scheduling, and providing an adaptive hardware bridge, Trinity ensures zero-lag interaction for both power users and gamers.
 
 ---
 
