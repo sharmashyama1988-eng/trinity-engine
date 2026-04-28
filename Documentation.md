@@ -1,4 +1,4 @@
-# 📖 Trinity Engine Technical Documentation v2.1
+# 📖 Trinity Engine Technical Documentation v3.1
 
 ## 1. Introduction
 Trinity Engine is built on a hybrid architecture combining **Python's high-level flexibility** with **C++ native execution speed**. This document explains how the internal modules interact with the Windows Operating System.
